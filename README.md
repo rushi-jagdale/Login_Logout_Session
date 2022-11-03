@@ -10,13 +10,13 @@ The first thing to do is to clone the repository:
 
 ```sh
 $ git clone https://github.com/rushi-jagdale/Login_Logout_Session.git
-$ cd ProfileProject
+$ cd Login_Logout_Session
 ```
 
 Create a virtual environment to install dependencies in and activate it:
 
 ```sh
-$ cd Login_Logout_Session
+
 $ Python3 -m venv env
 $ source env/bin/activate
 ```
